@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82a598d5.chunk.css",
+    "main.js": "/static/js/main.31b9562c.chunk.js",
+    "main.js.map": "/static/js/main.31b9562c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f9fc416c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f9fc416c.js.map",
+    "static/js/2.c6dee47d.chunk.js": "/static/js/2.c6dee47d.chunk.js",
+    "static/js/2.c6dee47d.chunk.js.map": "/static/js/2.c6dee47d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.82a598d5.chunk.css.map": "/static/css/main.82a598d5.chunk.css.map",
+    "static/js/2.c6dee47d.chunk.js.LICENSE.txt": "/static/js/2.c6dee47d.chunk.js.LICENSE.txt",
+    "static/media/logo-jokianku.3fb57a44.png": "/static/media/logo-jokianku.3fb57a44.png",
+    "static/media/logo-real.d0ee5e7e.png": "/static/media/logo-real.d0ee5e7e.png",
+    "static/media/testcase.28287f7b.png": "/static/media/testcase.28287f7b.png",
+    "static/media/ui.25ac2702.png": "/static/media/ui.25ac2702.png",
+    "static/media/uml.df92ddd2.png": "/static/media/uml.df92ddd2.png",
+    "static/media/web.fcea3549.png": "/static/media/web.fcea3549.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9fc416c.js",
+    "static/js/2.c6dee47d.chunk.js",
+    "static/css/main.82a598d5.chunk.css",
+    "static/js/main.31b9562c.chunk.js"
+  ]
+}
